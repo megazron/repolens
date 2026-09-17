@@ -20,7 +20,7 @@ def summarize(analysis):
     # hotspots
     hot=[f for f in files if f.get("risk_rank",0)>=0.85 and f["complexity"]>0][:10]
     # stale hotspots: high risk, not touched in >1yr
-    now=datetime.datetime.utcnow().timestamp()
+    now=datetime.datetime.now(datetime.timezone.utc).timestamp()
     stale=[f for f in hot if f["last"] and (now-f["last"])>365*86400]
     # single-owner risky files
     solo=[f for f in files if f.get("risk_rank",0)>=0.8 and f["authors"]<=1 and f["complexity"]>0][:8]

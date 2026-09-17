@@ -28,7 +28,7 @@ def history(path):
             _,_h,an,at = line.split("|",3)
             cur_author=an; cur_t=int(at); ncommits+=1
             author_commits[an]+=1
-            timeline[datetime.datetime.utcfromtimestamp(cur_t).strftime("%Y-%m")]+=1
+            timeline[datetime.datetime.fromtimestamp(cur_t, datetime.timezone.utc).strftime("%Y-%m")]+=1
         elif line.strip():
             parts=line.split("\t")
             if len(parts)==3:
