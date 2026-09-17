@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repolens"
+version = "0.1.0"
+description = "An offline X-ray of any git repository: hotspot risk map, health report, and an embeddable card. No API, no account."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Gaus Mohiuddin Sayyad"}]
+keywords = ["git","code-quality","visualization","treemap","hotspots","technical-debt","svg","cli"]
+
+[project.scripts]
+repolens = "repolens.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/megazron/repolens"
+
+[tool.setuptools.packages.find]
+where = ["src"]

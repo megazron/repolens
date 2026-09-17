@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="210" viewBox="0 0 500 210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect width="500" height="210" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="22" y="34" font-size="18" font-weight="700" fill="#e6edf3">kortex_ws</text>
+<rect x="408" y="16" width="70" height="30" rx="6" fill="#b02a37"/>
+<text x="443" y="37" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">E</text>
+<text x="404" y="60" font-size="10" fill="#8b949e" text-anchor="end">health</text>
+<text x="22" y="80" font-size="17" font-weight="700" fill="#e6edf3">609,162</text>
+<text x="22" y="96" font-size="10.5" fill="#8b949e">lines</text>
+<text x="113" y="80" font-size="17" font-weight="700" fill="#e6edf3">2523</text>
+<text x="113" y="96" font-size="10.5" fill="#8b949e">files</text>
+<text x="183" y="80" font-size="17" font-weight="700" fill="#e6edf3">511</text>
+<text x="183" y="96" font-size="10.5" fill="#8b949e">commits</text>
+<text x="253" y="80" font-size="17" font-weight="700" fill="#e6edf3">1</text>
+<text x="253" y="96" font-size="10.5" fill="#8b949e">authors</text>
+<text x="323" y="80" font-size="17" font-weight="700" fill="#e6edf3">1</text>
+<text x="323" y="96" font-size="10.5" fill="#8b949e">bus factor</text>
+<text x="22" y="112" font-size="10.5" fill="#8b949e">languages</text>
+<rect x="22.0" y="116" width="214.3" height="9" fill="#a0a0a0"><title>JSON 47%</title></rect>
+<rect x="236.3" y="116" width="132.4" height="9" fill="#3572A5"><title>Python 29%</title></rect>
+<rect x="368.7" y="116" width="49.3" height="9" fill="#5b6673"><title>Other 11%</title></rect>
+<rect x="418.1" y="116" width="28.7" height="9" fill="#cb171e"><title>YAML 6%</title></rect>
+<rect x="446.8" y="116" width="25.9" height="9" fill="#7f8c8d"><title>Docs 6%</title></rect>
+<rect x="472.7" y="116" width="2.4" height="9" fill="#89e051"><title>Shell 1%</title></rect>
+<rect x="475.1" y="116" width="2.1" height="9" fill="#f34b7d"><title>C++ 0%</title></rect>
+<rect x="477.2" y="116" width="0.8" height="9" fill="#6d6d6d"><title>C/C++ 0%</title></rect>
+<circle cx="26" cy="140" r="4" fill="#a0a0a0"/>
+<text x="35" y="144" font-size="10.5" fill="#8b949e">JSON 47%</text>
+<circle cx="106" cy="140" r="4" fill="#3572A5"/>
+<text x="115" y="144" font-size="10.5" fill="#8b949e">Python 29%</text>
+<circle cx="200" cy="140" r="4" fill="#5b6673"/>
+<text x="209" y="144" font-size="10.5" fill="#8b949e">Other 11%</text>
+<circle cx="287" cy="140" r="4" fill="#cb171e"/>
+<text x="296" y="144" font-size="10.5" fill="#8b949e">YAML 6%</text>
+<text x="22" y="170" font-size="10.5" fill="#8b949e">top hotspot</text>
+<text x="22" y="186" font-size="12.5" fill="#e6edf3" font-weight="600">scripts/clip_scene.py</text>
+<text x="22" y="200" font-size="10" fill="#b02a37">42 commits x complexity 729 - refactor first</text>
+<text x="486" y="200" font-size="9.5" fill="#484f58" text-anchor="end">RepoLens</text>
+</svg>

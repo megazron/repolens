@@ -1,0 +1,559 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect width="1100" height="760" fill="#0d1117"/>
+<text x="24" y="34" font-size="21" font-weight="700" fill="#e6edf3">kortex_ws - hotspot map</text>
+<text x="24" y="54" font-size="12.5" fill="#8b949e">Each tile is a file - area is lines of code, colour is risk (change frequency x complexity). Red = a hotspot.</text>
+<rect x="24.0" y="64.0" width="805.8" height="638.0" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="26.0" y="66.0" width="127.7" height="183.2" fill="#497f30" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/t1_centre_stage_b.json
+risk 0.01 - 0 commits, complexity 0, 12364 loc</title></rect>
+<text x="30.0" y="79.0" font-size="10" fill="#0d1117" font-weight="600">t1_centre_stage_b.jso</text>
+<rect x="26.0" y="249.2" width="127.7" height="161.8" fill="#816b16" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/02_vr_teleop/T2/S2_full_lift/scene_events.json
+risk 0.09 - 0 commits, complexity 0, 10921 loc</title></rect>
+<text x="30.0" y="262.2" font-size="10" fill="#0d1117" font-weight="600">scene_events.json</text>
+<rect x="26.0" y="410.9" width="127.7" height="103.0" fill="#378538" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/cad_inspect.json
+risk 0.00 - 0 commits, complexity 0, 6956 loc</title></rect>
+<text x="30.0" y="423.9" font-size="10" fill="#0d1117" font-weight="600">cad_inspect.json</text>
+<rect x="26.0" y="514.0" width="127.7" height="93.8" fill="#b15208" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141/manifest.json
+risk 0.30 - 0 commits, complexity 0, 6329 loc</title></rect>
+<text x="30.0" y="527.0" font-size="10" fill="#0d1117" font-weight="600">manifest.json</text>
+<rect x="26.0" y="607.7" width="127.7" height="92.3" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141_upright/manifest.json
+risk 0.37 - 0 commits, complexity 0, 6229 loc</title></rect>
+<text x="30.0" y="620.7" font-size="10" fill="#0d1117" font-weight="600">manifest.json</text>
+<rect x="153.7" y="66.0" width="102.3" height="115.2" fill="#72701d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/simulations/20260831_001736/cv_replay/manifest.json
+risk 0.06 - 0 commits, complexity 0, 6229 loc</title></rect>
+<text x="157.7" y="79.0" font-size="10" fill="#0d1117" font-weight="600">manifest.json</text>
+<rect x="153.7" y="181.2" width="102.3" height="113.1" fill="#4e7d2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/work_surface_region.json
+risk 0.02 - 0 commits, complexity 0, 6113 loc</title></rect>
+<text x="157.7" y="194.2" font-size="10" fill="#0d1117" font-weight="600">work_surface_regi</text>
+<rect x="153.7" y="294.3" width="102.3" height="105.9" fill="#ad5b02" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070529/manifest.json
+risk 0.21 - 0 commits, complexity 0, 5727 loc</title></rect>
+<text x="157.7" y="307.3" font-size="10" fill="#0d1117" font-weight="600">manifest.json</text>
+<rect x="153.7" y="400.3" width="102.3" height="103.0" fill="#9d6109" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070258/manifest.json
+risk 0.16 - 0 commits, complexity 0, 5565 loc</title></rect>
+<text x="157.7" y="413.3" font-size="10" fill="#0d1117" font-weight="600">manifest.json</text>
+<rect x="153.7" y="503.2" width="102.3" height="98.6" fill="#866913" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/06_full_autonomy/T2/S2_full_lift/scene_events.json
+risk 0.10 - 0 commits, complexity 0, 5332 loc</title></rect>
+<text x="157.7" y="516.2" font-size="10" fill="#0d1117" font-weight="600">scene_events.json</text>
+<rect x="153.7" y="601.9" width="102.3" height="98.1" fill="#846a14" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/04_vr_shared/T2/S2_full_lift/scene_events.json
+risk 0.09 - 0 commits, complexity 0, 5305 loc</title></rect>
+<text x="157.7" y="614.9" font-size="10" fill="#0d1117" font-weight="600">scene_events.json</text>
+<rect x="256.0" y="66.0" width="104.7" height="94.1" fill="#468031" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/predictive_avoidance.json
+risk 0.01 - 0 commits, complexity 0, 5208 loc</title></rect>
+<text x="260.0" y="79.0" font-size="10" fill="#0d1117" font-weight="600">predictive_avoida</text>
+<rect x="360.7" y="66.0" width="101.2" height="94.1" fill="#806b16" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/01_master_teleop/T2/S2_full_lift/scene_events.json
+risk 0.09 - 0 commits, complexity 0, 5035 loc</title></rect>
+<text x="364.7" y="79.0" font-size="10" fill="#0d1117" font-weight="600">scene_events.jso</text>
+<rect x="461.9" y="66.0" width="99.8" height="94.1" fill="#836a15" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/03_shared_autonomy/T2/S2_full_lift/scene_events.json
+risk 0.09 - 0 commits, complexity 0, 4963 loc</title></rect>
+<text x="465.9" y="79.0" font-size="10" fill="#0d1117" font-weight="600">scene_events.jso</text>
+<rect x="561.6" y="66.0" width="95.7" height="94.1" fill="#3a8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_limit.json
+risk 0.01 - 0 commits, complexity 0, 4759 loc</title></rect>
+<text x="565.6" y="79.0" font-size="10" fill="#0d1117" font-weight="600">centre_limit.js</text>
+<rect x="657.3" y="66.0" width="86.6" height="94.1" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_153646_20260902_153645.yaml
+risk 0.00 - 0 commits, complexity 0, 4309 loc</title></rect>
+<text x="661.3" y="79.0" font-size="10" fill="#0d1117" font-weight="600">20260902_15364</text>
+<rect x="743.9" y="66.0" width="83.9" height="94.1" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_164021_20260902_164021.yaml
+risk 0.00 - 0 commits, complexity 0, 4174 loc</title></rect>
+<text x="747.9" y="79.0" font-size="10" fill="#0d1117" font-weight="600">20260902_1640</text>
+<rect x="256.0" y="160.1" width="83.2" height="92.8" fill="#756f1b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/simulations/20260831_001736/instructions.json
+risk 0.06 - 0 commits, complexity 0, 4082 loc</title></rect>
+<text x="260.0" y="173.1" font-size="10" fill="#0d1117" font-weight="600">instructions.</text>
+<rect x="256.0" y="252.9" width="83.2" height="92.8" fill="#497f2f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/t1_instruction_sweep.json
+risk 0.01 - 0 commits, complexity 0, 4082 loc</title></rect>
+<text x="260.0" y="265.9" font-size="10" fill="#0d1117" font-weight="600">t1_instructio</text>
+<rect x="256.0" y="345.8" width="83.2" height="90.8" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_155631_20260902_155631.yaml
+risk 0.00 - 0 commits, complexity 0, 3994 loc</title></rect>
+<text x="260.0" y="358.8" font-size="10" fill="#0d1117" font-weight="600">20260902_1556</text>
+<rect x="256.0" y="436.6" width="83.2" height="90.4" fill="#3a8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_geom_width.json
+risk 0.01 - 0 commits, complexity 0, 3976 loc</title></rect>
+<text x="260.0" y="449.6" font-size="10" fill="#0d1117" font-weight="600">centre_geom_w</text>
+<rect x="256.0" y="527.0" width="83.2" height="86.7" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_161756_20260902_161756.yaml
+risk 0.00 - 0 commits, complexity 0, 3814 loc</title></rect>
+<text x="260.0" y="540.0" font-size="10" fill="#0d1117" font-weight="600">20260902_1617</text>
+<rect x="256.0" y="613.7" width="83.2" height="86.3" fill="#537b2b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/calibration/20260823_220731/world_map.json
+risk 0.02 - 0 commits, complexity 0, 3793 loc</title></rect>
+<text x="260.0" y="626.7" font-size="10" fill="#0d1117" font-weight="600">world_map.jso</text>
+<rect x="339.2" y="160.1" width="84.8" height="84.6" fill="#547b2b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/calibration/20260824_093512/world_map.json
+risk 0.02 - 0 commits, complexity 0, 3789 loc</title></rect>
+<text x="343.2" y="173.1" font-size="10" fill="#0d1117" font-weight="600">world_map.json</text>
+<rect x="423.9" y="160.1" width="84.7" height="84.6" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_165659_20260902_165659.yaml
+risk 0.00 - 0 commits, complexity 0, 3784 loc</title></rect>
+<text x="427.9" y="173.1" font-size="10" fill="#0d1117" font-weight="600">20260902_16565</text>
+<rect x="508.6" y="160.1" width="83.3" height="84.6" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_vs_height_topdown.json
+risk 0.01 - 0 commits, complexity 0, 3724 loc</title></rect>
+<text x="512.6" y="173.1" font-size="10" fill="#0d1117" font-weight="600">centre_vs_hei</text>
+<rect x="591.9" y="160.1" width="82.0" height="84.6" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_162436_20260902_162436.yaml
+risk 0.00 - 0 commits, complexity 0, 3664 loc</title></rect>
+<text x="595.9" y="173.1" font-size="10" fill="#0d1117" font-weight="600">20260902_1624</text>
+<rect x="673.9" y="160.1" width="78.3" height="84.6" fill="#3d8335" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/detector_real_rgbd.json
+risk 0.01 - 0 commits, complexity 0, 3500 loc</title></rect>
+<text x="677.9" y="173.1" font-size="10" fill="#0d1117" font-weight="600">detector_real</text>
+<rect x="752.2" y="160.1" width="75.6" height="84.6" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/20260902_164902_20260902_164902.yaml
+risk 0.00 - 0 commits, complexity 0, 3379 loc</title></rect>
+<text x="756.2" y="173.1" font-size="10" fill="#0d1117" font-weight="600">20260902_164</text>
+<rect x="339.2" y="244.7" width="78.0" height="81.5" fill="#3a8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_geom_stand.json
+risk 0.01 - 0 commits, complexity 0, 3360 loc</title></rect>
+<text x="343.2" y="257.7" font-size="10" fill="#0d1117" font-weight="600">centre_geom_</text>
+<rect x="339.2" y="326.2" width="78.0" height="81.2" fill="#3a8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_geom_height.json
+risk 0.01 - 0 commits, complexity 0, 3348 loc</title></rect>
+<text x="343.2" y="339.2" font-size="10" fill="#0d1117" font-weight="600">centre_geom_</text>
+<rect x="339.2" y="407.4" width="78.0" height="80.1" fill="#4f7d2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/work_surface_region_PRE20260815.json
+risk 0.02 - 0 commits, complexity 0, 3304 loc</title></rect>
+<text x="343.2" y="420.4" font-size="10" fill="#0d1117" font-weight="600">work_surface</text>
+<rect x="339.2" y="487.5" width="78.0" height="74.8" fill="#3c8335" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/clearance_region_left_fine.json
+risk 0.01 - 0 commits, complexity 0, 3085 loc</title></rect>
+<text x="343.2" y="500.5" font-size="10" fill="#0d1117" font-weight="600">clearance_re</text>
+<rect x="339.2" y="562.4" width="78.0" height="69.3" fill="#3c8335" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/clearance_region_outboard.json
+risk 0.01 - 0 commits, complexity 0, 2857 loc</title></rect>
+<text x="343.2" y="575.4" font-size="10" fill="#0d1117" font-weight="600">clearance_re</text>
+<rect x="339.2" y="631.7" width="78.0" height="68.3" fill="#8e6610" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_065146/manifest.json
+risk 0.12 - 0 commits, complexity 0, 2816 loc</title></rect>
+<text x="343.2" y="644.7" font-size="10" fill="#0d1117" font-weight="600">manifest.jso</text>
+<rect x="417.2" y="244.7" width="76.2" height="67.6" fill="#b15901" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_071516/manifest.json
+risk 0.23 - 0 commits, complexity 0, 2723 loc</title></rect>
+<text x="421.2" y="257.7" font-size="10" fill="#0d1117" font-weight="600">manifest.jso</text>
+<rect x="493.3" y="244.7" width="62.1" height="67.6" fill="#617625" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/session/20260824_190937/world_map.json
+risk 0.03 - 0 commits, complexity 0, 2221 loc</title></rect>
+<text x="497.3" y="257.7" font-size="10" fill="#0d1117" font-weight="600">world_map.</text>
+<rect x="555.4" y="244.7" width="57.5" height="67.6" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_down.json
+risk 0.00 - 0 commits, complexity 0, 2057 loc</title></rect>
+<rect x="613.0" y="244.7" width="55.4" height="67.6" fill="#3e8234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/grasp_approach.json
+risk 0.01 - 0 commits, complexity 0, 1981 loc</title></rect>
+<rect x="668.4" y="244.7" width="55.0" height="67.6" fill="#527b2b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/calibration/20260823_202409/world_map.json
+risk 0.02 - 0 commits, complexity 0, 1967 loc</title></rect>
+<rect x="723.4" y="244.7" width="52.3" height="67.6" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_heads.json
+risk 0.01 - 0 commits, complexity 0, 1871 loc</title></rect>
+<rect x="775.7" y="244.7" width="52.1" height="67.6" fill="#607725" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/real_calibration/run_20260821_193328/recovered_right.json
+risk 0.03 - 0 commits, complexity 0, 1863 loc</title></rect>
+<rect x="417.2" y="312.3" width="57.9" height="56.8" fill="#3a8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_limit_approach.json
+risk 0.01 - 0 commits, complexity 0, 1738 loc</title></rect>
+<rect x="417.2" y="369.1" width="57.9" height="55.9" fill="#3f8234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/home_wide.json
+risk 0.01 - 0 commits, complexity 0, 1710 loc</title></rect>
+<rect x="417.2" y="425.0" width="57.9" height="55.6" fill="#428133" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/mount_overlap_sweep.json
+risk 0.01 - 0 commits, complexity 0, 1702 loc</title></rect>
+<rect x="417.2" y="480.6" width="57.9" height="55.4" fill="#b15208" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141/report.md
+risk 0.30 - 0 commits, complexity 0, 1694 loc</title></rect>
+<rect x="417.2" y="536.0" width="57.9" height="55.0" fill="#507c2c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/world_map.json
+risk 0.02 - 0 commits, complexity 0, 1684 loc</title></rect>
+<rect x="417.2" y="591.0" width="57.9" height="54.5" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141_upright/report.md
+risk 0.38 - 0 commits, complexity 0, 1668 loc</title></rect>
+<rect x="417.2" y="645.5" width="57.9" height="54.5" fill="#72701d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/simulations/20260831_001736/cv_replay/report.md
+risk 0.06 - 0 commits, complexity 0, 1668 loc</title></rect>
+<rect x="475.1" y="312.3" width="53.5" height="57.4" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_posture_none.json
+risk 0.01 - 0 commits, complexity 0, 1625 loc</title></rect>
+<rect x="528.6" y="312.3" width="51.4" height="57.4" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_posture_folded.json
+risk 0.01 - 0 commits, complexity 0, 1561 loc</title></rect>
+<rect x="580.0" y="312.3" width="50.6" height="57.4" fill="#ad5b01" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070529/report.md
+risk 0.21 - 0 commits, complexity 0, 1537 loc</title></rect>
+<rect x="630.6" y="312.3" width="50.0" height="57.4" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_posture_down.json
+risk 0.01 - 0 commits, complexity 0, 1517 loc</title></rect>
+<rect x="680.6" y="312.3" width="49.2" height="57.4" fill="#9d6109" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070258/report.md
+risk 0.16 - 0 commits, complexity 0, 1494 loc</title></rect>
+<rect x="729.8" y="312.3" width="49.2" height="57.4" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_posture_behind.json
+risk 0.01 - 0 commits, complexity 0, 1493 loc</title></rect>
+<rect x="779.0" y="312.3" width="48.8" height="57.4" fill="#4e7d2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/voice_instruction.json
+risk 0.02 - 0 commits, complexity 0, 1481 loc</title></rect>
+<rect x="475.1" y="369.8" width="54.7" height="51.0" fill="#756f1b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/simulations/20260831_001736/cv_selftest/self_test/self_test.json
+risk 0.06 - 0 commits, complexity 0, 1474 loc</title></rect>
+<rect x="475.1" y="420.7" width="54.7" height="48.0" fill="#537b2b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/figures/gallery/baselines/make_baselines_gallery.py
+risk 0.02 - 0 commits, complexity 449, 1388 loc</title></rect>
+<rect x="475.1" y="468.7" width="54.7" height="47.1" fill="#876913" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/verification/abc_sweep_progress.json
+risk 0.10 - 0 commits, complexity 0, 1361 loc</title></rect>
+<rect x="475.1" y="515.8" width="54.7" height="46.5" fill="#388537" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_certified2.json
+risk 0.00 - 0 commits, complexity 0, 1345 loc</title></rect>
+<rect x="475.1" y="562.3" width="54.7" height="46.1" fill="#3c8336" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/clearance_region.json
+risk 0.01 - 0 commits, complexity 0, 1333 loc</title></rect>
+<rect x="475.1" y="608.4" width="54.7" height="45.8" fill="#408234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/home_widest_run2_x0780.json
+risk 0.01 - 0 commits, complexity 0, 1324 loc</title></rect>
+<rect x="475.1" y="654.2" width="54.7" height="45.8" fill="#3f8234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/home_widest.json
+risk 0.01 - 0 commits, complexity 0, 1324 loc</title></rect>
+<rect x="529.8" y="369.8" width="53.6" height="46.4" fill="#4c7e2e" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/task0_band_survey.json
+risk 0.02 - 0 commits, complexity 0, 1313 loc</title></rect>
+<rect x="583.3" y="369.8" width="52.5" height="46.4" fill="#4f7d2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/workspace_audit.json
+risk 0.02 - 0 commits, complexity 0, 1288 loc</title></rect>
+<rect x="635.9" y="369.8" width="51.1" height="46.4" fill="#468031" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/randomisation_region.json
+risk 0.01 - 0 commits, complexity 0, 1253 loc</title></rect>
+<rect x="687.0" y="369.8" width="47.4" height="46.4" fill="#368538" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/arm_directional_calibration.json
+risk 0.00 - 0 commits, complexity 0, 1162 loc</title></rect>
+<rect x="734.4" y="369.8" width="46.8" height="46.4" fill="#438132" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/orientation_cost.json
+risk 0.01 - 0 commits, complexity 0, 1146 loc</title></rect>
+<rect x="781.1" y="369.8" width="46.7" height="46.4" fill="#388537" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_certified3.json
+risk 0.00 - 0 commits, complexity 0, 1144 loc</title></rect>
+<rect x="529.8" y="416.1" width="43.0" height="50.1" fill="#4b7e2f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/t1_stage2_paths.json
+risk 0.02 - 0 commits, complexity 0, 1138 loc</title></rect>
+<rect x="529.8" y="466.2" width="43.0" height="47.2" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_folded.json
+risk 0.00 - 0 commits, complexity 0, 1072 loc</title></rect>
+<rect x="529.8" y="513.3" width="43.0" height="47.1" fill="#3a8437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_topdown.json
+risk 0.01 - 0 commits, complexity 0, 1071 loc</title></rect>
+<rect x="529.8" y="560.4" width="43.0" height="46.9" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_none.json
+risk 0.01 - 0 commits, complexity 0, 1067 loc</title></rect>
+<rect x="529.8" y="607.4" width="43.0" height="46.4" fill="#507c2c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/workspace_waypoints.json
+risk 0.02 - 0 commits, complexity 0, 1054 loc</title></rect>
+<rect x="529.8" y="653.7" width="43.0" height="46.3" fill="#3c8336" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/clearance_region_inboard.json
+risk 0.01 - 0 commits, complexity 0, 1052 loc</title></rect>
+<rect x="572.8" y="416.1" width="45.1" height="43.8" fill="#497f30" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/t1_centre_stage_a.json
+risk 0.01 - 0 commits, complexity 0, 1043 loc</title></rect>
+<rect x="617.8" y="416.1" width="43.5" height="43.8" fill="#31873a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/figures/pilot/data/study_summary.json
+risk 0.00 - 0 commits, complexity 0, 1007 loc</title></rect>
+<rect x="661.4" y="416.1" width="43.4" height="43.8" fill="#3b8436" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_posture_out.json
+risk 0.01 - 0 commits, complexity 0, 1005 loc</title></rect>
+<rect x="704.8" y="416.1" width="43.3" height="43.8" fill="#4e7d2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/wake_word.json
+risk 0.02 - 0 commits, complexity 0, 1002 loc</title></rect>
+<rect x="748.1" y="416.1" width="41.9" height="43.8" fill="#358639" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/figures/vision/scene_understanding/detect.json
+risk 0.00 - 0 commits, complexity 0, 969 loc</title></rect>
+<rect x="790.0" y="416.1" width="37.9" height="43.8" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/jorge_objecttrackingshared_20260902_132941.yaml
+risk 0.00 - 0 commits, complexity 0, 876 loc</title></rect>
+<rect x="572.8" y="459.9" width="39.5" height="40.8" fill="#3f8234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/home_solved.json
+risk 0.01 - 0 commits, complexity 0, 853 loc</title></rect>
+<rect x="572.8" y="500.7" width="39.5" height="40.5" fill="#2c893d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/christian_mastershared_20260902_111231.yaml
+risk 0.00 - 0 commits, complexity 0, 846 loc</title></rect>
+<rect x="572.8" y="541.2" width="39.5" height="39.8" fill="#3a8437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_row_0.380.json
+risk 0.01 - 0 commits, complexity 0, 831 loc</title></rect>
+<rect x="572.8" y="581.0" width="39.5" height="39.8" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/jorge_targetreachingshared_20260902_135048.yaml
+risk 0.00 - 0 commits, complexity 0, 831 loc</title></rect>
+<rect x="572.8" y="620.8" width="39.5" height="39.7" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_row_0.340.json
+risk 0.01 - 0 commits, complexity 0, 829 loc</title></rect>
+<rect x="572.8" y="660.4" width="39.5" height="39.6" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_row_0.320.json
+risk 0.01 - 0 commits, complexity 0, 827 loc</title></rect>
+<rect x="612.3" y="459.9" width="36.5" height="42.9" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_row_0.300.json
+risk 0.01 - 0 commits, complexity 0, 827 loc</title></rect>
+<rect x="648.8" y="459.9" width="36.0" height="42.9" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/jorge_targetreachingshared_20260902_134510.yaml
+risk 0.00 - 0 commits, complexity 0, 816 loc</title></rect>
+<rect x="684.8" y="459.9" width="35.8" height="42.9" fill="#398437" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_corner_e-50.json
+risk 0.00 - 0 commits, complexity 0, 811 loc</title></rect>
+<rect x="720.5" y="459.9" width="35.8" height="42.9" fill="#388537" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_corner_e-30.json
+risk 0.00 - 0 commits, complexity 0, 811 loc</title></rect>
+<rect x="756.3" y="459.9" width="35.8" height="42.9" fill="#388537" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_corner_e-40.json
+risk 0.00 - 0 commits, complexity 0, 811 loc</title></rect>
+<rect x="792.0" y="459.9" width="35.8" height="42.9" fill="#388537" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/centre_gap_corner_e-20.json
+risk 0.00 - 0 commits, complexity 0, 811 loc</title></rect>
+<rect x="612.3" y="502.8" width="37.6" height="40.3" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/jorge_objecttrackingdirect_20260902_132710.yaml
+risk 0.00 - 0 commits, complexity 0, 801 loc</title></rect>
+<rect x="612.3" y="543.1" width="37.6" height="39.9" fill="#3f8234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/grasp_reality.json
+risk 0.01 - 0 commits, complexity 0, 793 loc</title></rect>
+<rect x="612.3" y="583.0" width="37.6" height="39.5" fill="#2d893c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/christian_objecttrackingdirect_20260902_114001.yaml
+risk 0.00 - 0 commits, complexity 0, 786 loc</title></rect>
+<rect x="612.3" y="622.5" width="37.6" height="38.8" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/testa_20260902_093724.yaml
+risk 0.00 - 0 commits, complexity 0, 771 loc</title></rect>
+<rect x="612.3" y="661.2" width="37.6" height="38.8" fill="#2d893c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/christian_objecttrackingdirect_20260902_114249.yaml
+risk 0.00 - 0 commits, complexity 0, 771 loc</title></rect>
+<rect x="649.9" y="502.8" width="36.1" height="39.6" fill="#8f660f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_065146/report.md
+risk 0.12 - 0 commits, complexity 0, 756 loc</title></rect>
+<rect x="686.1" y="502.8" width="36.1" height="39.6" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/jorge_targetreachingdirect_20260902_133239.yaml
+risk 0.00 - 0 commits, complexity 0, 756 loc</title></rect>
+<rect x="722.2" y="502.8" width="35.4" height="39.6" fill="#418133" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/mount_geometry.json
+risk 0.01 - 0 commits, complexity 0, 742 loc</title></rect>
+<rect x="757.6" y="502.8" width="35.2" height="39.6" fill="#2e883c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/data/session_20260902/metadata/master_teleop_20260902_093707.yaml
+risk 0.00 - 0 commits, complexity 0, 736 loc</title></rect>
+<rect x="792.8" y="502.8" width="35.0" height="39.6" fill="#b15801" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_071516/report.md
+risk 0.24 - 0 commits, complexity 0, 733 loc</title></rect>
+<rect x="649.9" y="542.4" width="34.3" height="39.9" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141_upright/measurements.csv
+risk 0.37 - 0 commits, complexity 0, 724 loc</title></rect>
+<rect x="649.9" y="582.3" width="34.3" height="39.9" fill="#b15208" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_073141/measurements.csv
+risk 0.30 - 0 commits, complexity 0, 724 loc</title></rect>
+<rect x="649.9" y="622.2" width="34.3" height="39.9" fill="#72701d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/simulations/20260831_001736/cv_replay/measurements.csv
+risk 0.06 - 0 commits, complexity 0, 724 loc</title></rect>
+<rect x="649.9" y="662.1" width="34.3" height="37.9" fill="#607625" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/session/20260824_190242/world_map.json
+risk 0.03 - 0 commits, complexity 0, 687 loc</title></rect>
+<rect x="684.3" y="542.4" width="36.5" height="34.1" fill="#597928" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/fault_acceptance/e3/FAULTTEST/e3_divided_attention_b00_t005_direct|single_task.csv
+risk 0.02 - 0 commits, complexity 0, 658 loc</title></rect>
+<rect x="720.8" y="542.4" width="36.3" height="34.1" fill="#587928" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/fault_acceptance/e3/FAULTTEST/e3_divided_attention_b00_t003_direct|single_task.csv
+risk 0.02 - 0 commits, complexity 0, 654 loc</title></rect>
+<rect x="757.0" y="542.4" width="36.0" height="34.1" fill="#587929" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/fault_acceptance/e3/FAULTTEST/e3_divided_attention_b00_t001_direct|single_task.csv
+risk 0.02 - 0 commits, complexity 0, 649 loc</title></rect>
+<rect x="793.0" y="542.4" width="34.8" height="34.1" fill="#ad5b02" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070529/measurements.csv
+risk 0.21 - 0 commits, complexity 0, 627 loc</title></rect>
+<rect x="684.3" y="576.5" width="37.6" height="31.4" fill="#448132" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/orientation_cost_what_binds_as_follower.json
+risk 0.01 - 0 commits, complexity 0, 624 loc</title></rect>
+<rect x="684.3" y="607.9" width="37.6" height="31.3" fill="#438132" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/orientation_cost_what_binds.json
+risk 0.01 - 0 commits, complexity 0, 623 loc</title></rect>
+<rect x="684.3" y="639.2" width="37.6" height="30.6" fill="#9d6109" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vision_thesis/20260830_070258/measurements.csv
+risk 0.16 - 0 commits, complexity 0, 608 loc</title></rect>
+<rect x="684.3" y="669.8" width="37.6" height="30.2" fill="#408234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/language_vision_sweep.json
+risk 0.01 - 0 commits, complexity 0, 600 loc</title></rect>
+<rect x="721.9" y="576.5" width="35.4" height="30.9" fill="#4f7c2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/workspace_n10_retry_20260806.json
+risk 0.02 - 0 commits, complexity 0, 578 loc</title></rect>
+<rect x="757.3" y="576.5" width="35.4" height="30.9" fill="#4f7c2d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/workspace_n10_20260806.json
+risk 0.02 - 0 commits, complexity 0, 578 loc</title></rect>
+<rect x="792.7" y="576.5" width="35.1" height="30.9" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/vr_teleop/session_20260826_123758/metadata.yaml
+risk 0.38 - 0 commits, complexity 0, 572 loc</title></rect>
+<rect x="721.9" y="607.4" width="34.2" height="31.4" fill="#378538" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/baselines/cad_joints.json
+risk 0.00 - 0 commits, complexity 0, 567 loc</title></rect>
+<rect x="721.9" y="638.8" width="34.2" height="30.9" fill="#5d7826" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/fault_acceptance/e6/FAULTTEST/e6_vr_vs_mannequin_b00_t004_mannequin_direct.csv
+risk 0.03 - 0 commits, complexity 0, 558 loc</title></rect>
+<rect x="721.9" y="669.7" width="34.2" height="30.3" fill="#7c6c18" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260806_130205/E_right_up_r1.csv
+risk 0.08 - 0 commits, complexity 0, 548 loc</title></rect>
+<rect x="756.0" y="607.4" width="36.5" height="27.5" fill="#547b2a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/fault_acceptance/e1/FAULTTEST/e1_fitts_characterisation_b00_t002_D0.160_W0.060.csv
+risk 0.02 - 0 commits, complexity 0, 530 loc</title></rect>
+<rect x="792.5" y="607.4" width="35.3" height="27.5" fill="#786e1a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260806_130205/C_right_back.csv
+risk 0.07 - 0 commits, complexity 0, 513 loc</title></rect>
+<rect x="756.0" y="634.9" width="29.2" height="32.9" fill="#7d6c18" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260806_130205/F_left_front_slow.csv
+risk 0.08 - 0 commits, complexity 0, 509 loc</title></rect>
+<rect x="756.0" y="667.8" width="29.2" height="32.2" fill="#786e1a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260806_130205/C_right_left.csv
+risk 0.07 - 0 commits, complexity 0, 497 loc</title></rect>
+<rect x="785.3" y="634.9" width="42.5" height="21.8" fill="#7e6c17" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260901_151026/G_right_high_up_down.csv
+risk 0.08 - 0 commits, complexity 0, 490 loc</title></rect>
+<rect x="785.3" y="656.7" width="42.5" height="21.8" fill="#547b2a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/figures/gallery/pilot/make_pilot_gallery.py
+risk 0.02 - 0 commits, complexity 210, 490 loc</title></rect>
+<rect x="785.3" y="678.5" width="42.5" height="21.5" fill="#7b6d18" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>extras/recordings/trajectory_capture/capture_20260806_130205/E_left_right_r2.csv
+risk 0.08 - 0 commits, complexity 0, 484 loc</title></rect>
+<text x="29.0" y="696.0" font-size="12" fill="#e6edf3" font-weight="700" opacity="0.85">extras/</text>
+<rect x="829.8" y="64.0" width="246.2" height="289.3" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="831.8" y="66.0" width="69.0" height="50.6" fill="#b14715" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/serial/doc/Doxyfile
+risk 0.48 - 1 commits, complexity 0, 1880 loc</title></rect>
+<text x="835.8" y="79.0" font-size="10" fill="#0d1117" font-weight="600">Doxyfile</text>
+<rect x="900.8" y="66.0" width="60.6" height="50.6" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/master_pose_node.py
+risk 0.99 - 8 commits, complexity 521, 1651 loc</title></rect>
+<rect x="961.4" y="66.0" width="56.9" height="50.6" fill="#b02a35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/vr_bringup.py
+risk 0.97 - 4 commits, complexity 541, 1551 loc</title></rect>
+<rect x="1018.4" y="66.0" width="55.6" height="50.6" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/abc/run_abc.py
+risk 1.00 - 25 commits, complexity 611, 1516 loc</title></rect>
+<rect x="831.8" y="116.6" width="47.1" height="57.5" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/ik_follower_node.py
+risk 0.99 - 12 commits, complexity 401, 1460 loc</title></rect>
+<rect x="831.8" y="174.0" width="47.1" height="46.9" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/bimanual/scenarios_verified.yaml
+risk 0.39 - 0 commits, complexity 0, 1191 loc</title></rect>
+<rect x="831.8" y="220.9" width="47.1" height="44.8" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/master_bringup.py
+risk 0.99 - 13 commits, complexity 351, 1138 loc</title></rect>
+<rect x="831.8" y="265.7" width="47.1" height="43.4" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/kortex_highlevel_bridge.py
+risk 0.98 - 9 commits, complexity 354, 1102 loc</title></rect>
+<rect x="831.8" y="309.1" width="47.1" height="42.2" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_autonomy/srl_autonomy/voice_intent.py
+risk 0.98 - 7 commits, complexity 510, 1072 loc</title></rect>
+<rect x="879.0" y="116.6" width="44.6" height="43.7" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/trajectory_capture/record_trajectories.py
+risk 0.97 - 5 commits, complexity 429, 1051 loc</title></rect>
+<rect x="923.6" y="116.6" width="41.0" height="43.7" fill="#b0322c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/serial/src/impl/unix.cc
+risk 0.75 - 1 commits, complexity 219, 966 loc</title></rect>
+<rect x="964.6" y="116.6" width="38.8" height="43.7" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_perception/srl_perception/world_model.py
+risk 0.98 - 9 commits, complexity 336, 914 loc</title></rect>
+<rect x="1003.4" y="116.6" width="35.4" height="43.7" fill="#b0302f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/teleop_gui.py
+risk 0.82 - 1 commits, complexity 283, 835 loc</title></rect>
+<rect x="1038.8" y="116.6" width="35.2" height="43.7" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/real_arm_doctor.py
+risk 0.96 - 4 commits, complexity 297, 829 loc</title></rect>
+<rect x="879.0" y="160.3" width="38.1" height="39.5" fill="#b02c33" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/motion_generator.py
+risk 0.91 - 2 commits, complexity 273, 810 loc</title></rect>
+<rect x="879.0" y="199.8" width="38.1" height="39.2" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_vr_teleop/srl_vr_teleop/vr_pose_mapper.py
+risk 0.98 - 12 commits, complexity 252, 804 loc</title></rect>
+<rect x="879.0" y="238.9" width="38.1" height="38.0" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/test/test_vr_bringup_sequence.py
+risk 0.95 - 4 commits, complexity 176, 781 loc</title></rect>
+<rect x="879.0" y="277.0" width="38.1" height="37.4" fill="#b14b10" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/bimanual/t2_hold_and_fill/results/P99/t2_b00_t001_direct.csv
+risk 0.40 - 0 commits, complexity 0, 767 loc</title></rect>
+<rect x="879.0" y="314.3" width="38.1" height="37.0" fill="#b14c0f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/bimanual/t2_hold_and_fill/results/P98/t2_b00_t001_direct.csv
+risk 0.40 - 0 commits, complexity 0, 759 loc</title></rect>
+<rect x="917.1" y="160.3" width="40.4" height="34.6" fill="#b0302f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/fault_injector.py
+risk 0.81 - 1 commits, complexity 227, 753 loc</title></rect>
+<rect x="957.5" y="160.3" width="39.3" height="34.6" fill="#b14a11" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/bimanual/t7_pursuit/results/P00/t7_b00_t001_direct.csv
+risk 0.41 - 0 commits, complexity 0, 733 loc</title></rect>
+<rect x="996.8" y="160.3" width="38.8" height="34.6" fill="#b0312e" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_perception/srl_perception/scene_understanding_node.py
+risk 0.79 - 1 commits, complexity 215, 722 loc</title></rect>
+<rect x="1035.6" y="160.3" width="38.4" height="34.6" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_vr_teleop/srl_vr_teleop/quest_bridge_node.py
+risk 0.96 - 4 commits, complexity 224, 716 loc</title></rect>
+<rect x="917.1" y="194.9" width="31.8" height="40.9" fill="#b03529" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/serial/include/serial/serial.h
+risk 0.71 - 1 commits, complexity 96, 701 loc</title></rect>
+<rect x="917.1" y="235.8" width="31.8" height="39.1" fill="#b0302f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/master_teleop_node.py
+risk 0.81 - 1 commits, complexity 190, 670 loc</title></rect>
+<rect x="917.1" y="274.9" width="31.8" height="38.4" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/abc/vision_grasp.py
+risk 0.98 - 10 commits, complexity 211, 657 loc</title></rect>
+<rect x="917.1" y="313.3" width="31.8" height="38.0" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/real_homing_node.py
+risk 0.96 - 5 commits, complexity 192, 651 loc</title></rect>
+<rect x="948.8" y="194.9" width="31.8" height="36.4" fill="#b03728" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_vr_teleop/web/vr_client.html
+risk 0.69 - 5 commits, complexity 0, 623 loc</title></rect>
+<rect x="980.6" y="194.9" width="31.2" height="36.4" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/abc/t1_task.py
+risk 0.95 - 4 commits, complexity 237, 611 loc</title></rect>
+<rect x="1011.8" y="194.9" width="31.2" height="36.4" fill="#b14913" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/e3_divided_attention/results/PILOT/e3_divided_attention_b00_t001_direct|single_task.csv
+risk 0.44 - 0 commits, complexity 0, 611 loc</title></rect>
+<rect x="1042.9" y="194.9" width="31.1" height="36.4" fill="#b14813" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/e3_divided_attention/results/PILOT/e3_divided_attention_b00_t005_direct|single_task.csv
+risk 0.44 - 0 commits, complexity 0, 610 loc</title></rect>
+<rect x="948.8" y="231.3" width="36.3" height="31.2" fill="#b14913" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/e3_divided_attention/results/PILOT/e3_divided_attention_b00_t003_direct|single_task.csv
+risk 0.44 - 0 commits, complexity 0, 609 loc</title></rect>
+<rect x="948.8" y="262.5" width="36.3" height="29.7" fill="#b02c34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_perception/srl_perception/table_scene.py
+risk 0.93 - 3 commits, complexity 155, 581 loc</title></rect>
+<rect x="948.8" y="292.2" width="36.3" height="29.6" fill="#b0342b" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/serial/src/impl/win.cc
+risk 0.73 - 1 commits, complexity 120, 579 loc</title></rect>
+<rect x="948.8" y="321.8" width="36.3" height="29.5" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/abc/msc_clip_tasks.py
+risk 0.98 - 23 commits, complexity 172, 576 loc</title></rect>
+<rect x="985.1" y="231.3" width="30.2" height="34.5" fill="#b14a12" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/e1_fitts_characterisation/results/PILOT/e1_fitts_characterisation_b00_t002_D0.160_W0.060.csv
+risk 0.42 - 0 commits, complexity 0, 560 loc</title></rect>
+<rect x="1015.3" y="231.3" width="29.6" height="34.5" fill="#b03e1f" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_description/urdf/human_backpack.xacro
+risk 0.61 - 3 commits, complexity 0, 550 loc</title></rect>
+<rect x="1044.9" y="231.3" width="29.1" height="34.5" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/master_calibration.py
+risk 0.95 - 6 commits, complexity 153, 541 loc</title></rect>
+<rect x="985.1" y="265.8" width="34.6" height="28.6" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/gui_launch_specs.py
+risk 0.97 - 16 commits, complexity 164, 533 loc</title></rect>
+<rect x="985.1" y="294.4" width="34.6" height="28.6" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_perception/srl_perception/mock_rgbd_camera.py
+risk 0.97 - 10 commits, complexity 161, 532 loc</title></rect>
+<rect x="985.1" y="323.0" width="34.6" height="28.4" fill="#b02c34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/estop_node.py
+risk 0.93 - 3 commits, complexity 165, 528 loc</title></rect>
+<rect x="1019.7" y="265.8" width="27.3" height="35.2" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/abc/t1_instruction.py
+risk 0.94 - 3 commits, complexity 291, 517 loc</title></rect>
+<rect x="1046.9" y="265.8" width="27.1" height="35.2" fill="#b0312d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/trajectory_capture/analyse_capture.py
+risk 0.78 - 1 commits, complexity 208, 514 loc</title></rect>
+<rect x="1019.7" y="301.0" width="36.6" height="25.9" fill="#b02d33" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_perception/srl_perception/joint_planner.py
+risk 0.89 - 2 commits, complexity 161, 511 loc</title></rect>
+<rect x="1019.7" y="326.9" width="36.6" height="24.4" fill="#b14912" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_experiments/experiments/_archive/e2_autonomy_level/results/PILOT/e2_autonomy_level_b00_t001_direct.csv
+risk 0.43 - 0 commits, complexity 0, 482 loc</title></rect>
+<rect x="1056.3" y="301.0" width="17.7" height="50.3" fill="#b02b34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>src/srl_teleop/srl_teleop/sim_to_real_bridge.py
+risk 0.94 - 8 commits, complexity 108, 481 loc</title></rect>
+<text x="834.8" y="347.3" font-size="12" fill="#e6edf3" font-weight="700" opacity="0.85">src/</text>
+<rect x="829.8" y="353.3" width="246.2" height="270.1" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="831.8" y="355.3" width="126.7" height="64.7" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/cv_pickpose_visuals.py
+risk 0.97 - 5 commits, complexity 1169, 4423 loc</title></rect>
+<text x="835.8" y="368.3" font-size="10" fill="#0d1117" font-weight="600">cv_pickpose_visuals.p</text>
+<rect x="958.5" y="355.3" width="64.6" height="64.7" fill="#b02a37" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/clip_scene.py
+risk 1.00 - 42 commits, complexity 729, 2254 loc</title></rect>
+<text x="962.5" y="368.3" font-size="10" fill="#0d1117" font-weight="600">clip_scene</text>
+<rect x="1023.1" y="355.3" width="50.9" height="64.7" fill="#b03628" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/make_results.py
+risk 0.70 - 1 commits, complexity 468, 1775 loc</title></rect>
+<rect x="831.8" y="420.0" width="53.5" height="56.8" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/record_abc_sweep.py
+risk 1.00 - 38 commits, complexity 574, 1638 loc</title></rect>
+<rect x="831.8" y="476.8" width="53.5" height="54.0" fill="#b02d33" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/srl_console.py
+risk 0.89 - 2 commits, complexity 451, 1557 loc</title></rect>
+<rect x="831.8" y="530.8" width="53.5" height="47.9" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/record_rviz.py
+risk 1.00 - 24 commits, complexity 467, 1383 loc</title></rect>
+<rect x="831.8" y="578.7" width="53.5" height="42.8" fill="#b02b34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/solve_home_pose.py
+risk 0.94 - 3 commits, complexity 367, 1234 loc</title></rect>
+<rect x="885.3" y="420.0" width="51.4" height="38.6" fill="#b02a35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/record_all.py
+risk 0.97 - 5 commits, complexity 346, 1071 loc</title></rect>
+<rect x="936.7" y="420.0" width="49.9" height="38.6" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/verify_gui_buttons.py
+risk 0.99 - 12 commits, complexity 361, 1040 loc</title></rect>
+<rect x="986.6" y="420.0" width="45.3" height="38.6" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/calibrate_environment.py
+risk 0.98 - 9 commits, complexity 287, 945 loc</title></rect>
+<rect x="1032.0" y="420.0" width="42.0" height="38.6" fill="#b0342a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/srl_launcher.py
+risk 0.73 - 1 commits, complexity 214, 876 loc</title></rect>
+<rect x="885.3" y="458.7" width="37.3" height="43.5" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/audit_task_spec.py
+risk 0.98 - 7 commits, complexity 388, 875 loc</title></rect>
+<rect x="885.3" y="502.2" width="37.3" height="41.8" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/find_presentation_pose.py
+risk 0.97 - 6 commits, complexity 322, 840 loc</title></rect>
+<rect x="885.3" y="544.0" width="37.3" height="39.2" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/verify_rviz_clips.py
+risk 0.99 - 18 commits, complexity 281, 788 loc</title></rect>
+<rect x="885.3" y="583.2" width="37.3" height="38.3" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/env_probe.py
+risk 0.98 - 8 commits, complexity 262, 770 loc</title></rect>
+<rect x="922.6" y="458.7" width="40.4" height="34.2" fill="#b02e32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/measure_sim_to_real_gap.py
+risk 0.87 - 2 commits, complexity 253, 745 loc</title></rect>
+<rect x="963.0" y="458.7" width="37.6" height="34.2" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/make_sim_figures.py
+risk 0.94 - 5 commits, complexity 161, 693 loc</title></rect>
+<rect x="1000.5" y="458.7" width="37.2" height="34.2" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/srl_hud.py
+risk 0.96 - 6 commits, complexity 202, 687 loc</title></rect>
+<rect x="1037.7" y="458.7" width="36.3" height="34.2" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/record_verification.py
+risk 0.96 - 5 commits, complexity 195, 669 loc</title></rect>
+<rect x="922.6" y="492.9" width="35.5" height="32.9" fill="#b02f31" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/gazebo_gate/gate.py
+risk 0.84 - 2 commits, complexity 157, 631 loc</title></rect>
+<rect x="922.6" y="525.8" width="35.5" height="32.1" fill="#b02e32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/search_t1_centre.py
+risk 0.87 - 2 commits, complexity 191, 615 loc</title></rect>
+<rect x="922.6" y="557.9" width="35.5" height="32.1" fill="#b02e32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/srl_fa/fa_scan.py
+risk 0.87 - 2 commits, complexity 163, 615 loc</title></rect>
+<rect x="922.6" y="590.0" width="35.5" height="31.4" fill="#b02a36" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/sim_session.py
+risk 0.98 - 13 commits, complexity 199, 602 loc</title></rect>
+<rect x="958.1" y="492.9" width="29.5" height="36.4" fill="#b02a35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/verify_objects_on_table.py
+risk 0.97 - 6 commits, complexity 214, 578 loc</title></rect>
+<rect x="987.6" y="492.9" width="29.3" height="36.4" fill="#b0332c" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/vr_headset_check.py
+risk 0.75 - 1 commits, complexity 240, 574 loc</title></rect>
+<rect x="1016.9" y="492.9" width="28.7" height="36.4" fill="#b02e31" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/measure_orientation_cost.py
+risk 0.86 - 2 commits, complexity 172, 562 loc</title></rect>
+<rect x="1045.5" y="492.9" width="28.5" height="36.4" fill="#b02b35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/pick_from_map.py
+risk 0.95 - 5 commits, complexity 182, 558 loc</title></rect>
+<rect x="958.1" y="529.2" width="32.9" height="31.4" fill="#b03727" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/measure_grasp_approach.py
+risk 0.69 - 1 commits, complexity 161, 557 loc</title></rect>
+<rect x="958.1" y="560.6" width="32.9" height="30.8" fill="#b02d32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/vr_guided_session.py
+risk 0.88 - 2 commits, complexity 194, 548 loc</title></rect>
+<rect x="958.1" y="591.5" width="32.9" height="30.0" fill="#b02c34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/sweep_t1_instructions.py
+risk 0.93 - 3 commits, complexity 184, 533 loc</title></rect>
+<rect x="991.1" y="529.2" width="27.8" height="35.6" fill="#b0352a" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/srl_fa/fa_perception.py
+risk 0.72 - 1 commits, complexity 167, 533 loc</title></rect>
+<rect x="1018.8" y="529.2" width="27.7" height="35.6" fill="#b02e32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/real_calibration/safe_motion.py
+risk 0.87 - 2 commits, complexity 186, 531 loc</title></rect>
+<rect x="1046.5" y="529.2" width="27.5" height="35.6" fill="#b02a35" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/start_real.sh
+risk 0.97 - 8 commits, complexity 196, 528 loc</title></rect>
+<rect x="991.1" y="564.8" width="33.9" height="28.6" fill="#b02b34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/master_mannequin_gui.py
+risk 0.93 - 9 commits, complexity 106, 523 loc</title></rect>
+<rect x="991.1" y="593.5" width="33.9" height="28.0" fill="#b02e31" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/lerobot_export.py
+risk 0.85 - 2 commits, complexity 164, 512 loc</title></rect>
+<rect x="1025.0" y="564.8" width="24.6" height="38.4" fill="#b02d32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/verify_predictive_avoidance.py
+risk 0.89 - 2 commits, complexity 227, 510 loc</title></rect>
+<rect x="1049.6" y="564.8" width="24.4" height="38.4" fill="#b02b34" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/measure_what_binds.py
+risk 0.93 - 4 commits, complexity 160, 506 loc</title></rect>
+<rect x="1025.0" y="603.3" width="49.0" height="18.2" fill="#b02e32" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>scripts/search_t1_layout_on_surface.py
+risk 0.87 - 2 commits, complexity 168, 481 loc</title></rect>
+<text x="834.8" y="617.5" font-size="12" fill="#e6edf3" font-weight="700" opacity="0.85">scripts/</text>
+<rect x="829.8" y="623.5" width="198.3" height="78.5" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="831.8" y="625.5" width="111.0" height="74.5" fill="#408234" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/NEXT_SESSION.md
+risk 0.01 - 91 commits, complexity 0, 4650 loc</title></rect>
+<text x="835.8" y="638.5" font-size="10" fill="#0d1117" font-weight="600">NEXT_SESSION.md</text>
+<rect x="942.8" y="625.5" width="39.9" height="38.3" fill="#458031" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/research/01_literature_review.md
+risk 0.01 - 3 commits, complexity 0, 860 loc</title></rect>
+<rect x="942.8" y="663.8" width="39.9" height="36.2" fill="#478031" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/research/02_baseline_and_hypotheses.md
+risk 0.01 - 5 commits, complexity 0, 813 loc</title></rect>
+<rect x="982.7" y="625.5" width="43.4" height="32.8" fill="#458031" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/TASK_SPEC.md
+risk 0.01 - 10 commits, complexity 0, 799 loc</title></rect>
+<rect x="982.7" y="658.2" width="22.7" height="41.8" fill="#5e7726" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/system/hardware.md
+risk 0.03 - 2 commits, complexity 0, 533 loc</title></rect>
+<rect x="1005.4" y="658.2" width="20.7" height="41.8" fill="#5e7726" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>docs/system/architecture.md
+risk 0.03 - 2 commits, complexity 0, 486 loc</title></rect>
+<text x="834.8" y="696.0" font-size="12" fill="#e6edf3" font-weight="700" opacity="0.85">docs/</text>
+<rect x="1028.1" y="623.5" width="47.9" height="78.5" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="1030.1" y="625.5" width="43.9" height="38.0" fill="#b0312e" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>vendor_quest/quest_hand_pose_server/quest_hand_pose_server.py
+risk 0.78 - 1 commits, complexity 77, 1003 loc</title></rect>
+<rect x="1030.1" y="663.5" width="43.9" height="36.5" fill="#b0322d" stroke="#0d1117" stroke-width="0.7" rx="1.5"><title>vendor_quest/quest_controller_signal_server/quest_controller_signal_server.py
+risk 0.78 - 1 commits, complexity 73, 963 loc</title></rect>
+<text x="1033.1" y="696.0" font-size="12" fill="#e6edf3" font-weight="700" opacity="0.85">vendor_quest/</text>
+<text x="24" y="726" font-size="12" fill="#8b949e">risk</text>
+<rect x="60" y="715" width="4" height="12" fill="#2b8a3e"/>
+<rect x="64" y="715" width="4" height="12" fill="#2f883b"/>
+<rect x="68" y="715" width="4" height="12" fill="#348639"/>
+<rect x="72" y="715" width="4" height="12" fill="#388537"/>
+<rect x="76" y="715" width="4" height="12" fill="#3d8335"/>
+<rect x="80" y="715" width="4" height="12" fill="#418133"/>
+<rect x="84" y="715" width="4" height="12" fill="#468031"/>
+<rect x="88" y="715" width="4" height="12" fill="#4b7e2f"/>
+<rect x="92" y="715" width="4" height="12" fill="#4f7c2d"/>
+<rect x="96" y="715" width="4" height="12" fill="#547b2b"/>
+<rect x="100" y="715" width="4" height="12" fill="#587928"/>
+<rect x="104" y="715" width="4" height="12" fill="#5d7826"/>
+<rect x="108" y="715" width="4" height="12" fill="#617624"/>
+<rect x="112" y="715" width="4" height="12" fill="#667422"/>
+<rect x="116" y="715" width="4" height="12" fill="#6b7320"/>
+<rect x="120" y="715" width="4" height="12" fill="#6f711e"/>
+<rect x="124" y="715" width="4" height="12" fill="#746f1c"/>
+<rect x="128" y="715" width="4" height="12" fill="#786e1a"/>
+<rect x="132" y="715" width="4" height="12" fill="#7d6c18"/>
+<rect x="136" y="715" width="4" height="12" fill="#816b16"/>
+<rect x="140" y="715" width="4" height="12" fill="#866913"/>
+<rect x="144" y="715" width="4" height="12" fill="#8b6711"/>
+<rect x="148" y="715" width="4" height="12" fill="#8f660f"/>
+<rect x="152" y="715" width="4" height="12" fill="#94640d"/>
+<rect x="156" y="715" width="4" height="12" fill="#98620b"/>
+<rect x="160" y="715" width="4" height="12" fill="#9d6109"/>
+<rect x="164" y="715" width="4" height="12" fill="#a15f07"/>
+<rect x="168" y="715" width="4" height="12" fill="#a65e05"/>
+<rect x="172" y="715" width="4" height="12" fill="#ab5c03"/>
+<rect x="176" y="715" width="4" height="12" fill="#af5a01"/>
+<rect x="180" y="715" width="4" height="12" fill="#b15900"/>
+<rect x="184" y="715" width="4" height="12" fill="#b15702"/>
+<rect x="188" y="715" width="4" height="12" fill="#b15504"/>
+<rect x="192" y="715" width="4" height="12" fill="#b15406"/>
+<rect x="196" y="715" width="4" height="12" fill="#b15208"/>
+<rect x="200" y="715" width="4" height="12" fill="#b1510a"/>
+<rect x="204" y="715" width="4" height="12" fill="#b14f0c"/>
+<rect x="208" y="715" width="4" height="12" fill="#b14d0d"/>
+<rect x="212" y="715" width="4" height="12" fill="#b14c0f"/>
+<rect x="216" y="715" width="4" height="12" fill="#b14a11"/>
+<rect x="220" y="715" width="4" height="12" fill="#b14813"/>
+<rect x="224" y="715" width="4" height="12" fill="#b14715"/>
+<rect x="228" y="715" width="4" height="12" fill="#b14517"/>
+<rect x="232" y="715" width="4" height="12" fill="#b14419"/>
+<rect x="236" y="715" width="4" height="12" fill="#b1421b"/>
+<rect x="240" y="715" width="4" height="12" fill="#b0401c"/>
+<rect x="244" y="715" width="4" height="12" fill="#b03f1e"/>
+<rect x="248" y="715" width="4" height="12" fill="#b03d20"/>
+<rect x="252" y="715" width="4" height="12" fill="#b03b22"/>
+<rect x="256" y="715" width="4" height="12" fill="#b03a24"/>
+<rect x="260" y="715" width="4" height="12" fill="#b03826"/>
+<rect x="264" y="715" width="4" height="12" fill="#b03728"/>
+<rect x="268" y="715" width="4" height="12" fill="#b03529"/>
+<rect x="272" y="715" width="4" height="12" fill="#b0332b"/>
+<rect x="276" y="715" width="4" height="12" fill="#b0322d"/>
+<rect x="280" y="715" width="4" height="12" fill="#b0302f"/>
+<rect x="284" y="715" width="4" height="12" fill="#b02e31"/>
+<rect x="288" y="715" width="4" height="12" fill="#b02d33"/>
+<rect x="292" y="715" width="4" height="12" fill="#b02b35"/>
+<rect x="296" y="715" width="4" height="12" fill="#b02a37"/>
+<text x="60" y="742" font-size="11" fill="#8b949e">calm</text>
+<text x="270" y="742" font-size="11" fill="#8b949e">hotspot</text>
+</svg>
